@@ -1,11 +1,17 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CLASSES_ROOT\Directory\shell\PQC_Sign]
-@="✍️ Sign with PQC"
-[HKEY_CLASSES_ROOT\Directory\shell\PQC_Sign\command]
-@="\"C:\\Python311\\pythonw.exe\" \"C:\\Users\\Arik\\Documents\\pqsign_project\\client_app\\sign_client.py\" \"%1\""
+; --- SIGN FOLDER ---
+[HKEY_CLASSES_ROOT\Directory\shell\PQSIGN_SIGN]
+@="📁 Sign with PQSign"
+"Icon"="C:\\Users\\wondiwmirul\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe"
 
-[HKEY_CLASSES_ROOT\Directory\shell\PQC_Verify]
-@="✅ Verify with PQC"
-[HKEY_CLASSES_ROOT\Directory\shell\PQC_Verify\command]
-@="\"C:\\Python311\\pythonw.exe\" \"C:\\Users\\Arik\\Documents\\pqsign_project\\client_app\\verify_client.py\" \"%1\""
+[HKEY_CLASSES_ROOT\Directory\shell\PQSIGN_SIGN\command]
+@="\"C:\\Users\\wondiwmirul\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe\" \"C:\\Users\\wondiwmirul\\Downloads\\fufu-main\\fufu-main\\pqsign_project\\client_app\\sign_client.py\" \"%1\""
+
+; --- VERIFY FOLDER ---
+[HKEY_CLASSES_ROOT\Directory\shell\PQSIGN_VERIFY]
+@="📁 Verify with PQSign"
+"Icon"="C:\\Users\\wondiwmirul\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe"
+
+[HKEY_CLASSES_ROOT\Directory\shell\PQSIGN_VERIFY\command]
+@="\"C:\\Users\\wondiwmirul\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe\" \"C:\\Users\\wondiwmirul\\Downloads\\fufu-main\\fufu-main\\pqsign_project\\client_app\\verify_client.py\" \"%1\""
