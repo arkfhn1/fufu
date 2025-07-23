@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\Sign Folder]
+@="Sign Folder (PQSIGN)"
+"Icon"="cmd.exe"
+
+[HKEY_CLASSES_ROOT\Directory\shell\Sign Folder\command]
+@="cmd.exe /k python3 client_app\\sign_client.py \"%1\""
+
+[HKEY_CLASSES_ROOT\Directory\shell\Verify Folder]
+@="Verify Folder (PQSIGN)"
+"Icon"="cmd.exe"
+
+[HKEY_CLASSES_ROOT\Directory\shell\Verify Folder\command]
+@="cmd.exe /k python3 client_app\\verify_client.py \"%1\""

@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\PQC_Sign]
+@="✍️ Sign with PQC"
+[HKEY_CLASSES_ROOT\Directory\shell\PQC_Sign\command]
+@="\"C:\\Python311\\pythonw.exe\" \"C:\\Users\\Arik\\Documents\\pqsign_project\\client_app\\sign_client.py\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Directory\shell\PQC_Verify]
+@="✅ Verify with PQC"
+[HKEY_CLASSES_ROOT\Directory\shell\PQC_Verify\command]
+@="\"C:\\Python311\\pythonw.exe\" \"C:\\Users\\Arik\\Documents\\pqsign_project\\client_app\\verify_client.py\" \"%1\""
