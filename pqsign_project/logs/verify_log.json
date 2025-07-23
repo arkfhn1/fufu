@@ -1,0 +1,162 @@
+[
+  {
+    "timestamp": "2025-07-23T13:46:34.649967",
+    "file": "4.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/4.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/4.txt.sig",
+    "key": "pqsign_project_pb_mobile.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:46:34.654519",
+    "file": "3.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/3.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/3.txt.sig",
+    "key": "pqsign_project_pb_mobile.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:46:34.658544",
+    "file": "helloworld.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/helloworld.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/helloworld.txt.sig",
+    "key": "pqsign_project_pb_mobile.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:46:34.662174",
+    "file": "2.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/2.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/2.txt.sig",
+    "key": "pqsign_project_pb_mobile.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:46:34.665682",
+    "file": "1.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/1.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/1.txt.sig",
+    "key": "pqsign_project_pb_mobile.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:48:00.485522",
+    "file": "4.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/4.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/4.txt.sig",
+    "key": "pqsign_project_pb_mobile.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:48:00.489013",
+    "file": "3.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/3.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/3.txt.sig",
+    "key": "pqsign_project_pb_mobile.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:48:00.491974",
+    "file": "helloworld.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/helloworld.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/helloworld.txt.sig",
+    "key": "pqsign_project_pb_mobile.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:48:00.495142",
+    "file": "2.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/2.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/2.txt.sig",
+    "key": "pqsign_project_pb_mobile.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:48:00.498121",
+    "file": "1.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/1.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/1.txt.sig",
+    "key": "pqsign_project_pb_mobile.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:53:11.385387",
+    "file": "4.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/4.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/4.txt.sig",
+    "key": "pqsign_project_pb_kunci.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:53:11.389820",
+    "file": "3.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/3.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/3.txt.sig",
+    "key": "pqsign_project_pb_kunci.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:53:11.393902",
+    "file": "helloworld.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/helloworld.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/helloworld.txt.sig",
+    "key": "pqsign_project_pb_kunci.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:53:11.397090",
+    "file": "2.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/2.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/2.txt.sig",
+    "key": "pqsign_project_pb_kunci.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:53:11.400333",
+    "file": "1.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/1.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/1.txt.sig",
+    "key": "pqsign_project_pb_kunci.bin",
+    "result": "invalid"
+  },
+  {
+    "timestamp": "2025-07-23T13:56:38.101233",
+    "file": "4.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/4.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/4.txt_dup.sig",
+    "key": "pqsign_project_pb_kunci.bin",
+    "result": "valid (_dup)"
+  },
+  {
+    "timestamp": "2025-07-23T13:56:38.108992",
+    "file": "3.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/3.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/3.txt_dup.sig",
+    "key": "pqsign_project_pb_kunci.bin",
+    "result": "valid (_dup)"
+  },
+  {
+    "timestamp": "2025-07-23T13:56:38.114460",
+    "file": "helloworld.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/helloworld.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/helloworld.txt_dup.sig",
+    "key": "pqsign_project_pb_kunci.bin",
+    "result": "valid (_dup)"
+  },
+  {
+    "timestamp": "2025-07-23T13:56:38.119491",
+    "file": "2.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/2.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/2.txt_dup.sig",
+    "key": "pqsign_project_pb_kunci.bin",
+    "result": "valid (_dup)"
+  },
+  {
+    "timestamp": "2025-07-23T13:56:38.124846",
+    "file": "1.txt",
+    "file_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/1.txt",
+    "sig_path": "/home/nurul/Desktop/liboqs/build/demo1.6/pqsign_project/Files_Test/signatures/1.txt_dup.sig",
+    "key": "pqsign_project_pb_kunci.bin",
+    "result": "valid (_dup)"
+  }
+]
